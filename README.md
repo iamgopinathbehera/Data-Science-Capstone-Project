@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
-![Jupyter](https://www.bing.com/ck/a?!&&p=138eadf6ebde313dJmltdHM9MTY4NTA1OTIwMCZpZ3VpZD0wMTJiNTRkOS1jOTZmLTZhNDMtMjRkNC00Njc3YzhmNDZiZmMmaW5zaWQ9NTU1MQ&ptn=3&hsh=3&fclid=012b54d9-c96f-6a43-24d4-4677c8f46bfc&u=a1L2ltYWdlcy9zZWFyY2g_cT1pbWcuc2hpZWxkcyBqdXB5dGVyIGxvZ28mRk9STT1JUUZSQkEmaWQ9MEYzMjY3REQ3NzM0MjNBNDAwN0NBNTk3RDI5QTUzMkRFNTM3QzAzNw&ntb=1)
+![Jupyter](https://th.bing.com/th/id/R.472b6bb1326653df7cbbc729178d91a8?rik=N8A35S1TmtKXpQ&riu=http%3a%2f%2fjrogel.com%2fwp-content%2fuploads%2f2015%2f08%2fJupyter.jpg&ehk=wCZ42S859nOMAe%2fvaG9UfqVmpD%2bbWflFF%2bbGfKBUUBY%3d&risl=&pid=ImgRaw&r=0)
 # Predictor App
 
 A Web App Deployed on Streamlit Cloud ,That Predicts Car Price.
