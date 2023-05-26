@@ -9,3 +9,19 @@
 
 A Web App Deployed on Streamlit Cloud ,That Predicts Car Price.
 You can try out this app [here.](https://iamgopinathbehera-data-science-capstone-project-app-2sslc9.streamlit.app/)
+
+### Project Overview
+ 
+ "Car Details Dataset" on Kaggle. Here's a description based on the information available:
+The Car Details Dataset contains information about used cars, including various attributes related to their specifications and pricing. This dataset can be used for various data analysis and machine learning tasks related to the automotive industry.
+
+
+### Datasets Used
+
+Below are the links used to train the Predictor model
+
+Movie dataset :- 'https://www.kaggle.com/datasets/akshaydattatraykhare/car-details-dataset'
+
+This data is collected from 'Car Dekho'.
+
+
