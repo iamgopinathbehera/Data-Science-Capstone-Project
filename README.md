@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 
-# Recommender
+# Predictor App
 
 A Web App Deployed on Streamlit Cloud ,That Predicts Car Price.
 You can try out this app [here.](https://iamgopinathbehera-data-science-capstone-project-app-2sslc9.streamlit.app/)
