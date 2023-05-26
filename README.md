@@ -8,7 +8,7 @@
 # Predictor App
 
 A Web App Deployed on Streamlit Cloud ,That Predicts Car Price.
-You can try out this app [here.](https://iamgopinathbehera-data-science-capstone-project-app-2sslc9.streamlit.app/)
+You can try out this app [here.](https://iamgopinathbehera-data-science-capstone-project-app-jyju0o.streamlit.app/)
 
 ### Project Overview
  
