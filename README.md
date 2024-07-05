@@ -19,7 +19,7 @@ The Car Details Dataset contains information about used cars, including various 
 
 Below are the links used to train the Predictor model
 
-Movie dataset :- 'https://www.kaggle.com/datasets/akshaydattatraykhare/car-details-dataset'
+Car-Details-Dataset :- 'https://www.kaggle.com/datasets/akshaydattatraykhare/car-details-dataset'
 
 This data is collected from 'Car Dekho'.
 
